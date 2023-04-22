@@ -14,6 +14,8 @@ The ADT_A01 HL7 Message Generator is a Python script that enables the automated 
        /__/:/       /  /:/ \ /:/    \__\
        \__\/       /__/:/  /__\/
 
+
+
 ## Getting Started
 
 To use this script, please follow these steps:
