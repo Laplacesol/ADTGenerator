@@ -1,3 +1,4 @@
+!pip install faker
 from faker import Faker
 from hl7apy.core import Message
 import random
