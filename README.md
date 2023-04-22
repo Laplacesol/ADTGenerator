@@ -2,17 +2,7 @@ Welcome to the ADT_A01 HL7 Message Generator!
 
 The ADT_A01 HL7 Message Generator is a Python script that enables the automated creation of ADT_A01 HL7 messages for testing and demonstration purposes. This script generates a random patient and creates an ADT_A01 HL7 message based on that data.
 
-        ___
-       /  /\                    __       ___
-      /  /:/_                  /  \     /  /\
-     /  /:/ /\    ___     ___/   /    /  /:/_
-    /  /:/ /:/_  /__/\   /__/\  /    /  /:/ /\
-   /__/:/ /:/ /\ \  \:\  \  \:\ \__ /__/:/ /:/_
-   \  \:\/:/ /:/  \  \:\  \  \:\/\  \\  \:\/:/
-    \  \::/ /:/    \  \:\  \__\:\ \  \\  \::/
-     \__\/ /:/      \__\:\ /  /:/  \  \\__\/
-       /__/:/       /  /:/ \ /:/    \__\
-       \__\/       /__/:/  /__\/
+
 
 
 
@@ -21,7 +11,7 @@ The ADT_A01 HL7 Message Generator is a Python script that enables the automated 
 To use this script, please follow these steps:
 
 1. Clone the repository:
-$ git clone https://github.com/username/repo.git
+$ https://github.com/Laplacesol/pythonProject
 
 2. Navigate to the cloned repository:
 $ cd repo
